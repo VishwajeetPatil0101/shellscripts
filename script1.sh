@@ -8,3 +8,4 @@ echo "we are from batch 23"
 echo "vishwajeet patil " 
 echo " cheacking code is commiting or not"
 
+echo "hit "
