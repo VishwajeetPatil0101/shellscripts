@@ -9,3 +9,6 @@ echo "vishwajeet patil "
 echo " cheacking code is commiting or not"
 
 echo "hit "
+
+echo "added from linux machine "
+
