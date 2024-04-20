@@ -13,4 +13,5 @@ echo "hit "
 echo "added from linux machine "
 echo "....."
 echo "vvv"
+echo " branch created through terminal"
 
